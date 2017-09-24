@@ -1,0 +1,24 @@
+{
+  "name": "GithubGrabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animal_fun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon animal_fun.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgrogg/GitHubGrabber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgrogg/GitHubGrabber/issues"
+  },
+  "homepage": "https://github.com/bgrogg/GitHubGrabber#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
